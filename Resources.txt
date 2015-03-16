@@ -1,0 +1,9 @@
+Resources used in this project:
+
+List of websites:               Those referenced in the classes;
+                                        JavaScript Basics
+                                        Intro to jQuery
+List of books:                  N/A
+List of forums:                 N/A
+List of blog posts:             N/A
+List of Github repositories:    frontend-nanodegree-resume
